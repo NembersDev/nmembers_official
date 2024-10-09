@@ -580,10 +580,10 @@ frames
   background: linear-gradient(0deg, #B3D4D8 0%, #DEECE8 100%);
 }
 .mil-out-frame.mil-bg-2 {
-  background: linear-gradient(180deg, #F27457 0%, #A08488 100%);
+  background: linear-gradient(180deg, #422afb 0%, #b8b0f5 100%);
 }
 .mil-out-frame.mil-bg-3 {
-  background: linear-gradient(0deg, #224D50 0%, #1C6360 100%);
+  background: linear-gradient(0deg, #422afb 0%, #b8b0f5 100%);
 }
 .mil-out-frame.mil-bg-4 {
   background-color: rgb(39, 38, 38);
